@@ -1,0 +1,34 @@
+{
+  "Persons": [
+    {
+      "Name": "John",
+      "Age": 30,
+      "Address": {
+        "Street": "Main Street",
+        "City": "New York",
+        "State": "NY",
+        "Zip": "10001"
+      }
+    },
+    {
+      "Name": "Jane",
+      "Age": 25,
+      "Address": {
+        "Street": "Main Street",
+        "City": "New York",
+        "State": "NY",
+        "Zip": "10001"
+      }
+    },
+    {
+      "Name": "Bob",
+      "Age": 40,
+      "Address": {
+        "Street": "Main Street",
+        "City": "New York",
+        "State": "NY",
+        "Zip": "10001"
+      }
+    }
+  ]
+}
